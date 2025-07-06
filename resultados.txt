@@ -1,0 +1,8 @@
+[2025-06-08 11:44:59] Jugador: dan - Dificultad: Fácil - Puntuación: 6/10 - Porcentaje: 60.0%
+[2025-06-30 16:20:13] Jugador: dan - Dificultad: Fácil - Puntuación: 0/10 - Porcentaje: 0.0%
+[2025-07-02 13:45:46] Jugador: Jugador1 - Dificultad: Fácil - Puntuación: 6/10 - Porcentaje: 60.0%
+[2025-07-02 13:46:33] Jugador: Jugador12 - Dificultad: Fácil - Puntuación: 6/10 - Porcentaje: 60.0%
+[2025-07-05 19:34:00] Jugador: d - Dificultad: Fácil - Puntuación: 8/10 - Porcentaje: 80.0%
+[2025-07-05 19:35:04] Jugador: Jugador1 - Dificultad: Fácil - Puntuación: 7/10 - Porcentaje: 70.0%
+[2025-07-05 20:13:20] Jugador: d - Dificultad: Fácil - Puntuación: 10/10 - Porcentaje: 100.0%
+[2025-07-05 20:28:20] Jugador: dan - Dificultad: Fácil - Puntuación: 8/10 - Porcentaje: 80.0%

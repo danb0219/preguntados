@@ -1,0 +1,882 @@
+[
+    {
+      "id": 1,
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": { "A": "Nilo", "B": "Amazonas", "C": "Yangtsé", "D": "Misisipi" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+      "opciones": { "A": "1965", "B": "1969", "C": "1972", "D": "1958" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "historia"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cuál es el elemento químico con símbolo 'O'?",
+      "opciones": { "A": "Oro", "B": "Osmio", "C": "Oxígeno", "D": "Oganesón" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Quién pintó 'La última cena'?",
+      "opciones": { "A": "Miguel Ángel", "B": "Pablo Picasso", "C": "Leonardo da Vinci", "D": "Vincent van Gogh" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Cuál es la capital de Australia?",
+      "opciones": { "A": "Sídney", "B": "Melbourne", "C": "Canberra", "D": "Brisbane" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿En qué continente se encuentra Egipto?",
+      "opciones": { "A": "Asia", "B": "África", "C": "Europa", "D": "América" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": { "A": "Tierra", "B": "Saturno", "C": "Júpiter", "D": "Neptuno" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+      "opciones": { "A": "Pablo Neruda", "B": "Gabriel García Márquez", "C": "Mario Vargas Llosa", "D": "Julio Cortázar" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Cuántos lados tiene un heptágono?",
+      "opciones": { "A": "5", "B": "6", "C": "7", "D": "8" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "matematicas"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Qué idioma es el más hablado del mundo como lengua nativa?",
+      "opciones": { "A": "Inglés", "B": "Hindi", "C": "Español", "D": "Chino mandarín" },
+      "respuesta_correcta": "D",
+      "dificultad": "media",
+      "categoria": "cultura"
+    },
+        {
+      "id": 51,
+      "pregunta": "¿Cuál es la capital de Argentina?",
+      "opciones": { "A": "Buenos Aires", "B": "Córdoba", "C": "Rosario", "D": "Mendoza" },
+      "respuesta_correcta": "A",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 52,
+      "pregunta": "¿Qué artista pintó 'El grito'?",
+      "opciones": { "A": "Vincent van Gogh", "B": "Pablo Picasso", "C": "Edvard Munch", "D": "Salvador Dalí" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 53,
+      "pregunta": "¿Cuál es el metal más caro del mundo?",
+      "opciones": { "A": "Oro", "B": "Platino", "C": "Rodio", "D": "Paladio" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 54,
+      "pregunta": "¿En qué año cayó el Muro de Berlín?",
+      "opciones": { "A": "1985", "B": "1989", "C": "1991", "D": "1987" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 55,
+      "pregunta": "¿Qué planeta es conocido como 'el planeta rojo'?",
+      "opciones": { "A": "Venus", "B": "Júpiter", "C": "Marte", "D": "Saturno" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 56,
+      "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+      "opciones": { "A": "China", "B": "Estados Unidos", "C": "Canadá", "D": "Rusia" },
+      "respuesta_correcta": "D",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 57,
+      "pregunta": "¿Qué escritor creó el personaje de Sherlock Holmes?",
+      "opciones": { "A": "Charles Dickens", "B": "Arthur Conan Doyle", "C": "Agatha Christie", "D": "Edgar Allan Poe" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 58,
+      "pregunta": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+      "opciones": { "A": "Estribo", "B": "Martillo", "C": "Yunque", "D": "Vértebra" },
+      "respuesta_correcta": "A",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 59,
+      "pregunta": "¿Qué país ganó el primer Mundial de Fútbol en 1930?",
+      "opciones": { "A": "Argentina", "B": "Brasil", "C": "Uruguay", "D": "Italia" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "deportes"
+    },
+    {
+      "id": 60,
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "opciones": { "A": "Go", "B": "Au", "C": "Ag", "D": "Or" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 61,
+      "pregunta": "¿Qué famoso científico formuló las leyes del movimiento?",
+      "opciones": { "A": "Albert Einstein", "B": "Galileo Galilei", "C": "Isaac Newton", "D": "Nikola Tesla" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 62,
+      "pregunta": "¿Cuál es el océano más pequeño del mundo?",
+      "opciones": { "A": "Índico", "B": "Ártico", "C": "Antártico", "D": "Atlántico" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 63,
+      "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+      "opciones": { "A": "Italia", "B": "Francia", "C": "España", "D": "Alemania" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 64,
+      "pregunta": "¿Qué famoso compositor era sordo?",
+      "opciones": { "A": "Mozart", "B": "Bach", "C": "Beethoven", "D": "Chopin" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 65,
+      "pregunta": "¿Cuál es el animal terrestre más rápido?",
+      "opciones": { "A": "León", "B": "Guepardo", "C": "Leopardo", "D": "Antílope" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 66,
+      "pregunta": "¿Qué famoso líder indio promovió la resistencia no violenta?",
+      "opciones": { "A": "Nehru", "B": "Gandhi", "C": "Tagore", "D": "Bose" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 67,
+      "pregunta": "¿Cuál es el país con más habitantes del mundo?",
+      "opciones": { "A": "India", "B": "Estados Unidos", "C": "China", "D": "Indonesia" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 68,
+      "pregunta": "¿Qué planeta tiene anillos visibles desde la Tierra?",
+      "opciones": { "A": "Júpiter", "B": "Saturno", "C": "Urano", "D": "Neptuno" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 69,
+      "pregunta": "¿Qué escritor español escribió 'Don Quijote de la Mancha'?",
+      "opciones": { "A": "Miguel de Cervantes", "B": "Federico García Lorca", "C": "Pío Baroja", "D": "Benito Pérez Galdós" },
+      "respuesta_correcta": "A",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 70,
+      "pregunta": "¿Cuál es la montaña más alta de África?",
+      "opciones": { "A": "Monte Kenia", "B": "Kilimanjaro", "C": "Monte Stanley", "D": "Monte Elbrús" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 71,
+      "pregunta": "¿Qué pintor español es conocido por su etapa 'cubista'?",
+      "opciones": { "A": "Salvador Dalí", "B": "Joan Miró", "C": "Pablo Picasso", "D": "Antoni Tàpies" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 72,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'Na'?",
+      "opciones": { "A": "Níquel", "B": "Neón", "C": "Sodio", "D": "Nitrógeno" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 73,
+      "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
+      "opciones": { "A": "Asia", "B": "África", "C": "América", "D": "Australia" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 74,
+      "pregunta": "¿Qué científico descubrió la penicilina?",
+      "opciones": { "A": "Marie Curie", "B": "Alexander Fleming", "C": "Louis Pasteur", "D": "Robert Koch" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 75,
+      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+      "opciones": { "A": "Español", "B": "Portugués", "C": "Brasileño", "D": "Inglés" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 76,
+      "pregunta": "¿Qué famoso filósofo escribió 'El Príncipe'?",
+      "opciones": { "A": "Platón", "B": "Aristóteles", "C": "Maquiavelo", "D": "Descartes" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "filosofia"
+    },
+    {
+      "id": 77,
+      "pregunta": "¿Qué país tiene forma de bota?",
+      "opciones": { "A": "Francia", "B": "España", "C": "Grecia", "D": "Italia" },
+      "respuesta_correcta": "D",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 78,
+      "pregunta": "¿Cuál es el metal líquido a temperatura ambiente?",
+      "opciones": { "A": "Plomo", "B": "Mercurio", "C": "Oro", "D": "Platino" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 79,
+      "pregunta": "¿Qué famoso compositor austriaco era niño prodigio?",
+      "opciones": { "A": "Beethoven", "B": "Mozart", "C": "Bach", "D": "Haydn" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 80,
+      "pregunta": "¿Qué país es el mayor productor de café en el mundo?",
+      "opciones": { "A": "Colombia", "B": "Vietnam", "C": "Brasil", "D": "Etiopía" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 81,
+      "pregunta": "¿Qué famoso físico formuló la teoría de la relatividad?",
+      "opciones": { "A": "Isaac Newton", "B": "Albert Einstein", "C": "Stephen Hawking", "D": "Niels Bohr" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 82,
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": { "A": "Mónaco", "B": "San Marino", "C": "Vaticano", "D": "Liechtenstein" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 83,
+      "pregunta": "¿Qué famoso explorador llegó a América en 1492?",
+      "opciones": { "A": "Vasco da Gama", "B": "Fernando de Magallanes", "C": "Cristóbal Colón", "D": "Marco Polo" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "historia"
+    },
+    {
+      "id": 84,
+      "pregunta": "¿Qué planeta es el más cercano al Sol?",
+      "opciones": { "A": "Venus", "B": "Tierra", "C": "Mercurio", "D": "Marte" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 85,
+      "pregunta": "¿Qué famoso científico desarrolló la teoría de la evolución?",
+      "opciones": { "A": "Gregor Mendel", "B": "Charles Darwin", "C": "Louis Pasteur", "D": "Alfred Russel Wallace" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 86,
+      "pregunta": "¿Qué país es conocido como 'la tierra del sol naciente'?",
+      "opciones": { "A": "China", "B": "Corea del Sur", "C": "Japón", "D": "Tailandia" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 87,
+      "pregunta": "¿Qué famoso artista pintó la 'Mona Lisa'?",
+      "opciones": { "A": "Miguel Ángel", "B": "Rafael", "C": "Leonardo da Vinci", "D": "Donatello" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "arte"
+    },
+    {
+      "id": 88,
+      "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "opciones": { "A": "Tibia", "B": "Peroné", "C": "Fémur", "D": "Húmero" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 89,
+      "pregunta": "¿Qué país ganó más Copas Mundiales de Fútbol?",
+      "opciones": { "A": "Alemania", "B": "Brasil", "C": "Italia", "D": "Argentina" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "deportes"
+    },
+    {
+      "id": 90,
+      "pregunta": "¿Qué famoso inventor desarrolló el bombillo eléctrico?",
+      "opciones": { "A": "Nikola Tesla", "B": "Thomas Edison", "C": "Alexander Graham Bell", "D": "Guglielmo Marconi" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 91,
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "opciones": { "A": "Toronto", "B": "Montreal", "C": "Vancouver", "D": "Ottawa" },
+      "respuesta_correcta": "D",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 92,
+      "pregunta": "¿Qué famoso compositor ruso escribió 'El lago de los cisnes'?",
+      "opciones": { "A": "Tchaikovsky", "B": "Stravinsky", "C": "Shostakovich", "D": "Rachmaninoff" },
+      "respuesta_correcta": "A",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 93,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'Fe'?",
+      "opciones": { "A": "Flúor", "B": "Francio", "C": "Hierro", "D": "Fermio" },
+      "respuesta_correcta": "C",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 94,
+      "pregunta": "¿Qué famoso líder sudafricano luchó contra el apartheid?",
+      "opciones": { "A": "Desmond Tutu", "B": "Nelson Mandela", "C": "F.W. de Klerk", "D": "Steve Biko" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 95,
+      "pregunta": "¿Qué país es el mayor productor de petróleo en el mundo?",
+      "opciones": { "A": "Arabia Saudita", "B": "Rusia", "C": "Estados Unidos", "D": "Irak" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 96,
+      "pregunta": "¿Qué famoso pintor holandés cortó parte de su oreja?",
+      "opciones": { "A": "Rembrandt", "B": "Vincent van Gogh", "C": "Johannes Vermeer", "D": "Piet Mondrian" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 97,
+      "pregunta": "¿Cuál es el país con más islas en el mundo?",
+      "opciones": { "A": "Filipinas", "B": "Indonesia", "C": "Suecia", "D": "Japón" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 98,
+      "pregunta": "¿Qué famoso científico propuso la ley de la gravitación universal?",
+      "opciones": { "A": "Galileo Galilei", "B": "Albert Einstein", "C": "Isaac Newton", "D": "Nikola Tesla" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 99,
+      "pregunta": "¿Qué país tiene la bandera roja con una gran estrella amarilla?",
+      "opciones": { "A": "China", "B": "Vietnam", "C": "Corea del Norte", "D": "Laos" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 100,
+      "pregunta": "¿Qué famoso escritor ruso escribió 'Guerra y Paz'?",
+      "opciones": { "A": "Fiódor Dostoyevski", "B": "León Tolstói", "C": "Antón Chéjov", "D": "Vladimir Nabokov" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 101,
+      "pregunta": "¿Qué famoso emperador romano construyó un muro en Britania?",
+      "opciones": { "A": "Julio César", "B": "Augusto", "C": "Adriano", "D": "Nerón" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "historia"
+    },
+    {
+      "id": 102,
+      "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "opciones": { "A": "Hierro", "B": "Aluminio", "C": "Calcio", "D": "Sodio" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 103,
+      "pregunta": "¿Qué país europeo no tiene costa marítima?",
+      "opciones": { "A": "Suiza", "B": "Austria", "C": "Hungría", "D": "Todas las anteriores" },
+      "respuesta_correcta": "D",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 104,
+      "pregunta": "¿Qué pintor barroco español es conocido por sus 'Meninas'?",
+      "opciones": { "A": "El Greco", "B": "Diego Velázquez", "C": "Francisco de Goya", "D": "Bartolomé Esteban Murillo" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 105,
+      "pregunta": "¿Cuál es el único mamífero capaz de volar?",
+      "opciones": { "A": "Ardilla voladora", "B": "Murciélago", "C": "Lémur volador", "D": "Pez volador" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 106,
+      "pregunta": "¿Qué famoso filósofo dijo 'Pienso, luego existo'?",
+      "opciones": { "A": "Sócrates", "B": "Platón", "C": "Aristóteles", "D": "Descartes" },
+      "respuesta_correcta": "D",
+      "dificultad": "media",
+      "categoria": "filosofia"
+    },
+    {
+      "id": 107,
+      "pregunta": "¿Qué país tiene la forma de una bota?",
+      "opciones": { "A": "Grecia", "B": "Italia", "C": "España", "D": "Portugal" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 108,
+      "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "opciones": { "A": "Cerebro", "B": "Hígado", "C": "Piel", "D": "Intestino grueso" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 109,
+      "pregunta": "¿Qué famoso compositor era sordo cuando compuso su 9ª Sinfonía?",
+      "opciones": { "A": "Mozart", "B": "Bach", "C": "Beethoven", "D": "Haydn" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 110,
+      "pregunta": "¿Qué ciudad es conocida como 'La Ciudad Eterna'?",
+      "opciones": { "A": "Atenas", "B": "Roma", "C": "Jerusalén", "D": "París" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 111,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'K'?",
+      "opciones": { "A": "Kriptón", "B": "Potasio", "C": "Kalio", "D": "Kurio" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 112,
+      "pregunta": "¿Qué famoso líder indio fue asesinado en 1948?",
+      "opciones": { "A": "Jawaharlal Nehru", "B": "Indira Gandhi", "C": "Mahatma Gandhi", "D": "Rajiv Gandhi" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 113,
+      "pregunta": "¿Qué país tiene la mayor cantidad de pirámides?",
+      "opciones": { "A": "Egipto", "B": "México", "C": "Sudán", "D": "Perú" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 114,
+      "pregunta": "¿Qué famoso científico descubrió la radiactividad?",
+      "opciones": { "A": "Marie Curie", "B": "Ernest Rutherford", "C": "Henri Becquerel", "D": "Max Planck" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 115,
+      "pregunta": "¿Qué famoso escritor inglés escribió 'Romeo y Julieta'?",
+      "opciones": { "A": "Charles Dickens", "B": "William Shakespeare", "C": "Oscar Wilde", "D": "Jane Austen" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "literatura"
+    },
+    {
+      "id": 116,
+      "pregunta": "¿Qué país tiene la capital más alta del mundo?",
+      "opciones": { "A": "Nepal", "B": "Bolivia", "C": "Ecuador", "D": "Tíbet" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 117,
+      "pregunta": "¿Qué famoso artista pintó el techo de la Capilla Sixtina?",
+      "opciones": { "A": "Leonardo da Vinci", "B": "Rafael", "C": "Miguel Ángel", "D": "Donatello" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 118,
+      "pregunta": "¿Qué planeta tiene el día más corto del sistema solar?",
+      "opciones": { "A": "Mercurio", "B": "Venus", "C": "Júpiter", "D": "Saturno" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 119,
+      "pregunta": "¿Qué país fue dividido por el paralelo 38?",
+      "opciones": { "A": "Vietnam", "B": "Alemania", "C": "Corea", "D": "China" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 120,
+      "pregunta": "¿Qué famoso compositor austriaco compuso 'Pequeña serenata nocturna'?",
+      "opciones": { "A": "Beethoven", "B": "Mozart", "C": "Haydn", "D": "Schubert" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 121,
+      "pregunta": "¿Qué país tiene la forma de un cuerno?",
+      "opciones": { "A": "Somalia", "B": "Etiopía", "C": "Sudán", "D": "Kenya" },
+      "respuesta_correcta": "A",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 122,
+      "pregunta": "¿Qué famoso científico formuló las tres leyes del movimiento planetario?",
+      "opciones": { "A": "Galileo Galilei", "B": "Johannes Kepler", "C": "Isaac Newton", "D": "Nicolás Copérnico" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 123,
+      "pregunta": "¿Qué ciudad estadounidense es conocida como 'La Ciudad del Viento'?",
+      "opciones": { "A": "Nueva York", "B": "Los Ángeles", "C": "Chicago", "D": "Boston" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "geografia"
+    },
+    {
+      "id": 124,
+      "pregunta": "¿Qué famoso escritor francés escribió 'Los miserables'?",
+      "opciones": { "A": "Alexandre Dumas", "B": "Victor Hugo", "C": "Gustave Flaubert", "D": "Émile Zola" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 125,
+      "pregunta": "¿Qué país tiene la bandera más antigua aún en uso?",
+      "opciones": { "A": "Reino Unido", "B": "Dinamarca", "C": "Suiza", "D": "Japón" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 126,
+      "pregunta": "¿Qué famoso pintor holandés pintó 'La joven de la perla'?",
+      "opciones": { "A": "Rembrandt", "B": "Johannes Vermeer", "C": "Frans Hals", "D": "Pieter Brueghel" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 127,
+      "pregunta": "¿Qué elemento químico es el más ligero?",
+      "opciones": { "A": "Helio", "B": "Hidrógeno", "C": "Litio", "D": "Oxígeno" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 128,
+      "pregunta": "¿Qué famoso líder ruso lideró la Revolución de Octubre?",
+      "opciones": { "A": "León Trotsky", "B": "Vladimir Lenin", "C": "Joseph Stalin", "D": "Nikita Khrushchev" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 129,
+      "pregunta": "¿Qué país tiene más volcanes activos?",
+      "opciones": { "A": "Japón", "B": "Indonesia", "C": "Chile", "D": "Estados Unidos" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 130,
+      "pregunta": "¿Qué famoso científico propuso la teoría del Big Bang?",
+      "opciones": { "A": "Albert Einstein", "B": "Edwin Hubble", "C": "Georges Lemaître", "D": "Stephen Hawking" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 131,
+      "pregunta": "¿Qué ciudad es conocida como 'La Perla del Adriático'?",
+      "opciones": { "A": "Venecia", "B": "Dubrovnik", "C": "Split", "D": "Atenas" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 132,
+      "pregunta": "¿Qué famoso escritor ruso escribió 'Crimen y castigo'?",
+      "opciones": { "A": "León Tolstói", "B": "Fiódor Dostoyevski", "C": "Antón Chéjov", "D": "Nikolái Gógol" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 133,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'Ag'?",
+      "opciones": { "A": "Oro", "B": "Plata", "C": "Argón", "D": "Aluminio" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 134,
+      "pregunta": "¿Qué famoso líder sudafricano pasó 27 años en prisión?",
+      "opciones": { "A": "Nelson Mandela", "B": "Desmond Tutu", "C": "F.W. de Klerk", "D": "Steve Biko" },
+      "respuesta_correcta": "A",
+      "dificultad": "media",
+      "categoria": "historia"
+    },
+    {
+      "id": 135,
+      "pregunta": "¿Qué país tiene la mayor cantidad de lagos naturales?",
+      "opciones": { "A": "Finlandia", "B": "Canadá", "C": "Rusia", "D": "Suecia" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 136,
+      "pregunta": "¿Qué famoso pintor español es conocido por sus relojes derretidos?",
+      "opciones": { "A": "Pablo Picasso", "B": "Salvador Dalí", "C": "Joan Miró", "D": "Antoni Tàpies" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 137,
+      "pregunta": "¿Qué planeta tiene los anillos más visibles?",
+      "opciones": { "A": "Júpiter", "B": "Saturno", "C": "Urano", "D": "Neptuno" },
+      "respuesta_correcta": "B",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 138,
+      "pregunta": "¿Qué famoso filósofo griego fue maestro de Alejandro Magno?",
+      "opciones": { "A": "Sócrates", "B": "Platón", "C": "Aristóteles", "D": "Pitágoras" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "filosofia"
+    },
+    {
+      "id": 139,
+      "pregunta": "¿Qué país tiene la forma de un zapato?",
+      "opciones": { "A": "Italia", "B": "Grecia", "C": "Croacia", "D": "Portugal" },
+      "respuesta_correcta": "A",
+      "dificultad": "facil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 140,
+      "pregunta": "¿Qué famoso compositor alemán compuso 'Para Elisa'?",
+      "opciones": { "A": "Mozart", "B": "Beethoven", "C": "Bach", "D": "Handel" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "musica"
+    },
+    {
+      "id": 141,
+      "pregunta": "¿Qué elemento químico tiene el símbolo 'Hg'?",
+      "opciones": { "A": "Hidrógeno", "B": "Helio", "C": "Mercurio", "D": "Magnesio" },
+      "respuesta_correcta": "C",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 142,
+      "pregunta": "¿Qué famoso líder egipcio nacionalizó el Canal de Suez en 1956?",
+      "opciones": { "A": "Anwar Sadat", "B": "Gamal Abdel Nasser", "C": "Hosni Mubarak", "D": "Mohamed Morsi" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "historia"
+    },
+    {
+      "id": 143,
+      "pregunta": "¿Qué país tiene la capital más al norte del mundo?",
+      "opciones": { "A": "Finlandia", "B": "Islandia", "C": "Noruega", "D": "Canadá" },
+      "respuesta_correcta": "B",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 144,
+      "pregunta": "¿Qué famoso científico descubrió los rayos X?",
+      "opciones": { "A": "Marie Curie", "B": "Wilhelm Röntgen", "C": "Ernest Rutherford", "D": "Max Planck" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 145,
+      "pregunta": "¿Qué famoso escritor francés escribió 'El conde de Montecristo'?",
+      "opciones": { "A": "Victor Hugo", "B": "Alexandre Dumas", "C": "Gustave Flaubert", "D": "Émile Zola" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "literatura"
+    },
+    {
+      "id": 146,
+      "pregunta": "¿Qué país tiene la forma de un dragón?",
+      "opciones": { "A": "Vietnam", "B": "Tailandia", "C": "Camboya", "D": "Laos" },
+      "respuesta_correcta": "A",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    },
+    {
+      "id": 147,
+      "pregunta": "¿Qué famoso pintor impresionista pintó 'Nenúfares'?",
+      "opciones": { "A": "Vincent van Gogh", "B": "Claude Monet", "C": "Pierre-Auguste Renoir", "D": "Édouard Manet" },
+      "respuesta_correcta": "B",
+      "dificultad": "media",
+      "categoria": "arte"
+    },
+    {
+      "id": 148,
+      "pregunta": "¿Qué planeta es conocido como 'el planeta azul'?",
+      "opciones": { "A": "Tierra", "B": "Neptuno", "C": "Urano", "D": "Venus" },
+      "respuesta_correcta": "A",
+      "dificultad": "facil",
+      "categoria": "ciencia"
+    },
+    {
+      "id": 149,
+      "pregunta": "¿Qué famoso filósofo escribió 'El contrato social'?",
+      "opciones": { "A": "Voltaire", "B": "Montesquieu", "C": "Rousseau", "D": "Diderot" },
+      "respuesta_correcta": "C",
+      "dificultad": "dificil",
+      "categoria": "filosofia"
+    },
+    {
+      "id": 150,
+      "pregunta": "¿Qué país tiene la forma de un cuerno de rinoceronte?",
+      "opciones": { "A": "Somalia", "B": "Etiopía", "C": "Yemen", "D": "Omán" },
+      "respuesta_correcta": "A",
+      "dificultad": "dificil",
+      "categoria": "geografia"
+    }
+  ]
