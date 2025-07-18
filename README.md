@@ -8,3 +8,48 @@ Test your knowledge in various categories, including geography, science, history
          style="width: 35%;">
   </a>
 </div>
+
+🟢 preguntados.exe – Versión 1.0.0
+
+🎮 ¿Qué es?
+
+Este es un sencillo pero divertido juego de trivia desarrollado en Python, que ahora está disponible en versión ejecutable para Windows. Ideal para desafiar tus conocimientos y compartir con amigos.
+
+📂 Descarga
+
+⬇️ Descargar dist.zip
+
+Este archivo contiene todo lo necesario para ejecutar el juego:
+
+trivia.exe
+
+preguntas.json
+
+resultados.txt
+
+icono.ico
+
+⚠️ Instrucciones importantes
+
+Descomprime todo el contenido de dist.zip en una misma carpeta.
+
+Ejecuta el juego haciendo doble clic en trivia.exe.
+
+No muevas el .exe a otra ubicación sin llevar los demás archivos con él, ya que el juego depende de ellos para funcionar correctamente.
+
+🔎 Información adicional
+
+El archivo preguntas.json contiene las preguntas del juego.
+
+El archivo resultados.txt guarda el puntaje y resultados de cada jugador.
+
+icono.ico es el icono personalizado del ejecutable.
+
+📃 Nota sobre los archivos source code
+
+GitHub genera automáticamente los archivos Source code (.zip/.tar.gz) con el contenido del repositorio. Estos no incluyen el ejecutable. Solo debes descargar dist.zip para jugar.
+
+🎉 Gracias por jugar
+
+Si te gustó el juego, puedes darle una estrella al repositorio ⭐✨ o compartirlo con tus amigos.
+
